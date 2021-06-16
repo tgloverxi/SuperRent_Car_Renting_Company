@@ -1,3 +1,4 @@
+> Project Working Time period: Sep-Dec 2019
 # SuperRent_Car_Renting_Company_System
 
 ## Team members:
@@ -26,5 +27,5 @@ Using the website interface, you can login the car-renting system of this compan
  1. All the related data information (eg., information of cars or customers) are stored in "company_database.sql" as a database.
  2. To run the website locally, you can start with the 'startPage.php'
 
-> Project Working Time period: Sep-Dec 2019
+
 
